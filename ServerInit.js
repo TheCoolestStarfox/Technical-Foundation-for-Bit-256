@@ -14,7 +14,7 @@ function http = module.new({(GivenURL);
     gram:proccessHttpAvailable(permtoken, http:via())
   ) = http2
   Direct:Module(
-    for x(&2/5*0.0) do cos(x"s"=http,init) + forget(getignore.all())
+    for x(&2/5*0.0) do cos(x"s"=http,init) + forget(gitignore.all())
     is unavailable = cosGen:Force(http,REP_GIT)
   )
 
